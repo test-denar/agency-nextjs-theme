@@ -15,7 +15,7 @@ bottomSections:
     actions: []
     posts:
       - content/pages/blog/post-three.md
-      - content/pages/blog/postlayout-two.md
+      - content/pages/blog/post-two.md
     styles:
       self:
         height: auto
