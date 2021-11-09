@@ -1,7 +1,13 @@
 @import 'tailwindcss/components';
+/*
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
 
 @layer components {
-    .sb-component-button {
-        @apply border-4;
+    h1,
+    h2,
+    h3,
+    h4 {
+        @apply font-festive;
     }
 }
+*/
